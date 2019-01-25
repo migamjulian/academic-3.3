@@ -20,9 +20,11 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+    "Geodesy",
+    "GIS",
+    "Hydrological modelling", 
+    "Watershed hydrography", 
+    "Water resources in coastal areas and small islands"
 ]
 
 # List qualifications (such as academic degrees)
