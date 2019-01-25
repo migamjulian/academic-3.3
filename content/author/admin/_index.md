@@ -71,30 +71,30 @@ interests = [
     icon_pack = "ai"
     link = "https://www.researchgate.net/profile/Miga_Julian"
 
-# [[social]]
-#    icon = "linkedin"
-#    icon_pack = "fa"
-#    link = "https://de.linkedin.com/in/miga-magenika-julian-7b775a84"
+ [[social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://de.linkedin.com/in/miga-magenika-julian-7b775a84"
 
-# [[social]]
-#    icon = "github"
-#    icon_pack = "fa"
-#    link = "//github.com/migamjulian"
+ [[social]]
+    icon = "github"
+    icon_pack = "fab"
+    link = "//github.com/migamjulian"
   
-# [[social]]
-#    icon = "facebook"
-#    icon_pack = "fa"
-#    link = "https://www.facebook.com/miga.m.julian"
+ [[social]]
+    icon = "facebook"
+    icon_pack = "fab"
+    link = "https://www.facebook.com/miga.m.julian"
     
-# [[social]]
-#    icon = "instagram"
-#    icon_pack = "fa"
-#    link = "https://www.instagram.com/migamjulian/"
+ [[social]]
+    icon = "instagram"
+    icon_pack = "fab"
+    link = "https://www.instagram.com/migamjulian/"
     
-# [[social]]
-#    icon = "twitter"
-#    icon_pack = "fa"
-#    link = "//twitter.com/migamjulian"
+[[social]]
+    icon = "twitter"
+   icon_pack = "fab"
+    link = "//twitter.com/migamjulian"
     
  [[social]]
    icon = "cv"
