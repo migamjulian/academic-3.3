@@ -71,35 +71,35 @@ interests = [
     icon_pack = "ai"
     link = "https://www.researchgate.net/profile/Miga_Julian"
 
- [[social]]
+[[social]]
     icon = "linkedin"
     icon_pack = "fab"
     link = "https://de.linkedin.com/in/miga-magenika-julian-7b775a84"
 
- [[social]]
+[[social]]
     icon = "github"
     icon_pack = "fab"
     link = "//github.com/migamjulian"
   
- [[social]]
+[[social]]
     icon = "facebook"
     icon_pack = "fab"
     link = "https://www.facebook.com/miga.m.julian"
     
- [[social]]
+[[social]]
     icon = "instagram"
     icon_pack = "fab"
     link = "https://www.instagram.com/migamjulian/"
     
 [[social]]
     icon = "twitter"
-   icon_pack = "fab"
+    icon_pack = "fab"
     link = "//twitter.com/migamjulian"
     
- [[social]]
-   icon = "cv"
-   icon_pack = "ai"
-   link = "https://www.dropbox.com/s/lzcvo2cxi0ya5qc/cv_julian_fancy.pdf?dl=0"
+[[social]]
+    icon = "cv"
+    icon_pack = "ai"
+    link = "https://www.dropbox.com/s/lzcvo2cxi0ya5qc/cv_julian_fancy.pdf?dl=0"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
