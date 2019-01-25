@@ -1,12 +1,12 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Miga Magenika Julian"
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "PhD Student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -27,18 +27,13 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MEng in Geodesy and Geomatics"
+  institution = "Bandung Institute of Technology, Indonesia - Chiba University, Japan"
+  year = 2011
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "BEng in Geodesy and Geomatics"
+  institution = "Bandung Institute of Technology, Indonesia"
   year = 2008
 
 # Social/Academic Networking
@@ -88,6 +83,6 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+# About me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+> I am a PhD student at the Friedrich-Schiller University of Jena, Germany hosted at the department of GIScience, Institute of Geography funded by the Indonesia-German Scholarship Program (IGSP) DAAD-DIKTI. I am doing my PhD research about the modelling of the hydrological processes to investigate the coupling effects of changing land use and climate on hydrological dynamics. You can find my CV [here](https://www.dropbox.com/s/lzcvo2cxi0ya5qc/cv_julian_fancy.pdf?dl=0).
