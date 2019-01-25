@@ -110,6 +110,4 @@ interests = [
 
 +++
 
-I am a PhD student at the Friedrich-Schiller University of Jena, Germany hosted at the department of GIScience, Institute of Geography funded by the Indonesia-German Scholarship Program (IGSP) DAAD-DIKTI. I am doing my PhD research about the modelling of the hydrological processes to investigate the coupling effects of changing land use and climate on hydrological dynamics. 
-
-## You can find my CV [here](https://www.dropbox.com/s/lzcvo2cxi0ya5qc/cv_julian_fancy.pdf?dl=0).
+I am a PhD student at the Friedrich-Schiller University of Jena, Germany hosted at the department of GIScience, Institute of Geography funded by the Indonesia-German Scholarship Program (IGSP) DAAD-DIKTI. I am doing my PhD research about the modelling of the hydrological processes to investigate the coupling effects of changing land use and climate on hydrological dynamics.
