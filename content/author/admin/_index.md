@@ -71,27 +71,27 @@ interests = [
     icon_pack = "ai"
     link = "https://www.researchgate.net/profile/Miga_Julian"
 
- [[social]]
+[[social]]
     icon = "linkedin"
     icon_pack = "fa"
     link = "https://de.linkedin.com/in/miga-magenika-julian-7b775a84"
 
-  [[social]]
+[[social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/migamjulian"
   
-   [[social]]
+[[social]]
     icon = "facebook"
     icon_pack = "fa"
     link = "https://www.facebook.com/miga.m.julian"
     
-   [[social]]
+[[social]]
     icon = "instagram"
     icon_pack = "fa"
     link = "https://www.instagram.com/migamjulian/"
     
-   [[social]]
+[[social]]
     icon = "twitter"
     icon_pack = "fa"
     link = "//twitter.com/migamjulian"
