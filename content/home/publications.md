@@ -41,6 +41,8 @@ exclude_featured = false
 
 > * **Julian, M.M.**, Afriyanie, D., Taradini, J., Akbar, R., Suroso, D.S.A., Kustiwan, I., Fink, M., Meinhardt, M. (in preparation). Does climate change trumps land use change in future flood risks? Case Study: Bandung City.
 
+> * Afriyanie, D., **Julian, M.M.**, Akbar, R., Suroso, D.S.A., Kustiwan, I. (in preparation). Re-framing urban green spaces planning for flood protection using socio-ecological resilience in Bandung City Indonesia
+
 > * [Wahyuono, R.A., **Julian, M.M.** (2018). Revisiting Renewable Energy Map in Indonesia: Seasonal Hydro and Solar Energy Potential for Rural Off-Grid Electrification (Provincial Level). MATEC Web of Conferences 164.](https://www.matec-conferences.org/articles/matecconf/abs/2018/23/matecconf_icesti2018_01040/matecconf_icesti2018_01040.html)
 
 > * [Poerbandono, **Julian, M.M.**, Ward, P.J. (2014). Assessment of the effects of climate and land cover changes on river discharge and sediment yield, and an adaptive spatial planning in the Jakarta region. Natural Hazards Sept. 2014, Vol. 3, Issue 2, pp 507-530.](http://link.springer.com/10.1007/s11069-014-1083-x)
